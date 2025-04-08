@@ -1,0 +1,8 @@
+streamlit
+pandas
+pillow
+python-pptx
+reportlab
+arabic-reshaper
+python-bidi
+hijri-converter
